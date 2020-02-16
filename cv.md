@@ -6,7 +6,8 @@
 - I’m just starting my journey in programming and learning now every single free minute. It really fascinates me. Studying at *rsSchool* is a real chance for me to test myself and get a awesome job;
 - skills: js, git, figma;
 - code example:
- ```javascript
+
+```javascript
  // write the function isAnagram
  const sort = str => str
 	.replace(/\s+/g, '')

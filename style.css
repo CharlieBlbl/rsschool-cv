@@ -1,0 +1,46 @@
+body {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-family: 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+article {
+	max-width: 1024px;
+}
+
+h1 {
+	font-size: 20px;
+}
+
+li {
+	font-size: 18px;
+}
+
+pre {
+	font-size: 16px;
+	background-color: lightgrey;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+.profile-top-part {
+	display: flex;
+}
+
+.profile-photo {
+	width: 25%;
+	margin-block-start: 10px;
+	margin-block-end: 10px;
+	margin-inline-start: 10px;
+	margin-inline-end: 10px;
+}
+
+.profile-photo img {
+	width: 100%;
+	border-radius: 200px;
+}
+
+.profile-main-info{
+	width: 75%;
+}
